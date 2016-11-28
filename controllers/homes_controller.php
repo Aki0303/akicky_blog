@@ -12,6 +12,12 @@
       case 'index';
           $controller->index();
           break;
+      case 'pages';
+          $controller->pages();
+          break;
+      case 'contact';
+          $controller->contact();
+          break;
       default:
           break;
     }
@@ -162,6 +168,20 @@
     function index() {
       $resource = $this->resource;
       $action   = 'index';
+      require('views/layouts/application.php');
+    }
+
+
+    function pages() {
+      $resource = $this->resource;
+      $action   = 'pages';
+      require('views/layouts/application.php');
+    }
+
+
+    function contact() {
+      $resource = $this->resource;
+      $action = 'contact';
       require('views/layouts/application.php');
     }
 

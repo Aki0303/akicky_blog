@@ -58,7 +58,7 @@
         <!-- Logo
         ================================================== -->
         <div class="span5 logo">
-          <a href="index.htm"><img src="../img/piccolo-logo.png" alt="" /></a>
+          <a href="../home/index"><img src="../img/piccolo-logo.png" alt="" /></a>
             <h5>Big Things... Small Packages</h5>
         </div>
         
@@ -68,25 +68,21 @@
             <div class="navbar hidden-phone">
             
             <ul class="nav">
-            <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="index.htm">Home <b class="caret"></b></a>
+            <li class="dropdown active">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="../home/index">Home <b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="index.htm">Full Page</a></li>
-                    <li><a href="index-gallery.htm">Gallery Only</a></li>
-                    <li><a href="index-slider.htm">Slider Only</a></li>
+                    <li><a href="../home/index">Full Page</a></li>
+                    <!-- <li><a href="index-gallery.htm">Gallery Only</a></li>
+                    <li><a href="index-slider.htm">Slider Only</a></li> -->
                 </ul>
             </li>
-           <li><a href="features.htm">Features</a></li>
-            <li class="dropdown">
+            <!-- <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="page-full-width.htm">Pages <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="page-full-width.htm">Full Width</a></li>
-                    <li><a href="page-right-sidebar.htm">Right Sidebar</a></li>
-                    <li><a href="page-left-sidebar.htm">Left Sidebar</a></li>
-                    <li><a href="page-double-sidebar.htm">Double Sidebar</a></li>
-                </ul>
-            </li>
-             <li class="dropdown">
+                <ul class="dropdown-menu"> -->
+                    <li><a href="../home/pages">Pages</a></li>
+<!--                 </ul>
+            </li> -->
+             <!-- <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="gallery-4col.htm">Gallery <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="gallery-3col.htm">Gallery 3 Column</a></li>
@@ -95,18 +91,10 @@
                     <li><a href="gallery-4col-circle.htm">Gallery 4 Round</a></li>
                     <li><a href="gallery-single.htm">Gallery Single</a></li>
                 </ul>
-             </li>
-             <li class="dropdown active">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="blog-style1.htm">Blog <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="blog-style1.htm">Blog Style 1</a></li>
-                    <li><a href="blog-style2.htm">Blog Style 2</a></li>
-                    <li><a href="blog-style3.htm">Blog Style 3</a></li>
-                    <li><a href="blog-style4.htm">Blog Style 4</a></li>
-                    <li><a href="blog-single.htm">Blog Single</a></li>
-                </ul>
-             </li>
-             <li><a href="page-contact.htm">Contact</a></li>
+             </li> -->
+            <li><a href="../blog/blog">Blog</a></li>
+
+            <li><a href="../home/contact">Contact</a></li>
             </ul>
            
             </div>
@@ -218,7 +206,7 @@
                         <div class="span6"><span class="left">Copyright 2012 Piccolo Theme. All rights reserved.</span></div>
                         <div class="span6">
                             <span class="right">
-                            <a href="#">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Gallery</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Blog</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Contact</a>
+                            <a href="../home/index">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../home/pages">Pages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../blog/blog">Blog</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../home/contact">Contact</a>
                             </span>
                         </div>
                     </div>
