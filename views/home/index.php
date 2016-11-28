@@ -5,11 +5,8 @@
         <div class="span8">
             <div class="flexslider">
               <ul class="slides">
-                <li><a href="gallery-single.htm"><img src="../img/gallery/slider-img-1.jpg" alt="slider" /></a></li>
-                <li><a href="gallery-single.htm"><img src="../img/gallery/slider-img-1.jpg" alt="slider" /></a></li>
-                <li><a href="gallery-single.htm"><img src="../img/gallery/slider-img-1.jpg" alt="slider" /></a></li>
-                <li><a href="gallery-single.htm"><img src="../img/gallery/slider-img-1.jpg" alt="slider" /></a></li>
-                <li><a href="gallery-single.htm"><img src="../img/gallery/slider-img-1.jpg" alt="slider" /></a></li>
+                <li><a href="gallery-single.htm"><img src="../img/gallery/index_heian.jpg" alt="slider" /></a></li>
+                <li><a href="gallery-single.htm"><img src="../img/gallery/index_heian.jpg" alt="slider" /></a></li>
               </ul>
             </div>
         </div>
@@ -47,7 +44,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Custom Illustration</a>For an international ad campaign.</span>
                     </li>
 
@@ -59,7 +56,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">3 Color Poster Design</a>For a regional festival event.</span>
                     </li>
 
@@ -71,7 +68,7 @@
                                 <a href="#" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Ink Pen Illustration</a>Created for a best selling children's book.</span>
                     </li>
 
@@ -83,7 +80,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Custom Illustration</a>For an international add campaign.</span>
                     </li>
 
@@ -95,7 +92,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Icon Design</a>Classic retro style illustration.</span>
                     </li>
 
@@ -107,7 +104,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Animation Cell</a>Creative storyboard illustration</span>
                     </li>
 
@@ -119,7 +116,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Poster Ad Campaign</a>Regional ad for a local company.</span>
                     </li>
 
@@ -131,7 +128,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Magazine Ad</a>For an international add campaign.</span>
                     </li>
 
@@ -143,7 +140,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Character Designs</a>For a feature film.</span>
                     </li>
 
@@ -155,7 +152,7 @@
                                 <a href="gallery-single.htm" class="item-details-link"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="../img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="../img/gallery/index_testpic1.jpg" alt="Gallery"></a>
                         <span class="project-details"><a href="gallery-single.htm">Poster and Ad Design</a>For an international add campaign.</span>
                     </li>
 
